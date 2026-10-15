@@ -24,7 +24,7 @@ local function IsPlayerBanned(player)
             return true
         end
     end
-    return false
+    return falsesahhpire script blade ball
 end
 
 pcall(function()
